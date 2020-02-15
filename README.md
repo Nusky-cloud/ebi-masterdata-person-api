@@ -55,12 +55,12 @@ You will receive two persons data as response which is inserted to the database 
 http://localhost:8080/person/h2
 ```
 	
-**NOTE :** It will prompt for authorization. Please provide **admin** for username and **password** for password. After that you will see the login UI of h2 database. Please provide below details for the login. Password should be empty.
+**NOTE :** It will prompt for authorization. Please provide **admin** for username and **password** for password. After that you will see the login UI of h2 database. Please provide below details for the login. Password should be **empty**.
 
 ```shell
-JDBC URL  : jdbc:h2:mem:testdb<br>
-User Name : sa<br>
-Password  : <empty>
+JDBC URL  : jdbc:h2:mem:testdb
+User Name : sa
+Password  : 
 ```
 
 # API Information
