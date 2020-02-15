@@ -2,8 +2,8 @@
 
 This repository contains the REST API for person management. You can create, update, fetch and delete person data using this REST API. Also there is a web front-end and a command line client which uses this REST API.
 
-1) Web frontend - <repository link>
-2) Command line client - <repository link>
+1) Web frontend        - https://github.com/Nusky-cloud/ebi-person-management-ui.git
+2) Command line client - https://github.com/Nusky-cloud/ebi-person-management-cli.git
 
 # How to run?
 
